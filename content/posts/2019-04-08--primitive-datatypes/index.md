@@ -1,7 +1,7 @@
 ---
 title: Primitive Data Types
 subTitle: Data Types in JavaScript
-category: "javascript"
+category: "Javascript"
 cover: datatype-thumb.jpg
 ---
 
@@ -9,7 +9,7 @@ JavaScript has six primitive data types:
 ![](./carbon1.png)
 
 ***
-## Boolean
+## Boolean 
 
 A boolean is either true or false: it represents a logical entity. Let’s say it’s important for a feature I’m implemeting to know whether I’m human or not. I can assure you I am (although some of you seem to doubt that…) and I’m also not planning to change that! I use the const keyword to make sure I can never turn into a dog or anything else that isn’t human, and set the isHuman variable to true. 
 
