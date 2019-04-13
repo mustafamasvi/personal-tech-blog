@@ -1,13 +1,6 @@
 # Personal Tech Blog
 
-A personal Tech blog. <br /><br />
-
-[![GitHub license][mit-badge]][mit]
-[![GitHub tag][tag-badge]][tag]
-[![GitHub stars][stars-badge]][stars]
-![contributors][contributors-badge]
-[![PRs Welcome][prs-badge]][prs]
-[![code style prettier][prettier-badge]][prettier]
+A personal Tech blog.
   <br />
 
 See it in action » [website](https://mustafamasvi.github.io/techblog/) <br />
@@ -111,15 +104,3 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-
-[prs-badge]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square
-[prs]: http://makeapullrequest.com
-[tag-badge]: https://img.shields.io/github/tag/mustafamasvi/personal-tech-blog.svg
-[tag]: https://github.com/mustafamasvi/personal-tech-blog
-[stars-badge]: https://img.shields.io/github/stars/mustafamasvi/personal-tech-blog.svg
-[stars]: https://github.com/mustafamasvi/personal-tech-blog/stargazers
-[contributors-badge]: https://img.shields.io/github/contributors/mustafamasvi/personal-tech-blog.svg
-[prettier-badge]: https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square
-[prettier]: https://github.com/prettier/prettier
-[mit-badge]: https://img.shields.io/github/license/mustafamasvi/personal-tech-blog.svg
-[mit]: https://github.com/mustafamasvi/personal-tech-blog/blob/master/LICENSE

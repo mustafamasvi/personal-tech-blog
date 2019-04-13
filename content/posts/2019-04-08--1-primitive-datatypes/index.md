@@ -55,4 +55,3 @@ The backward slash is required in the third sentence, as we would otherwise term
 ## Symbol
 A symbol is a unique and immutable (it cannot change) value. You can use a symbol in many different ways, but most of the time you’ll use them at places where otherwise you would use a string or a number. Strings and numbers aren’t unique themselves, so if you ever want a value to be globally unique, symbols are the way to go. This will make a lot more sense once we get to functions and objects, don’t worry! 
 
----

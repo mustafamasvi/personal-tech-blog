@@ -5,7 +5,6 @@ require("core-js/fn/array/find");
 
 import asyncComponent from "../common/AsyncComponent/";
 import PostAuthor from "./PostAuthor";
-import PostComments from "./PostComments";
 
 const styles = theme => ({
   footer: {
@@ -29,6 +28,7 @@ const PostShare = asyncComponent(() =>
 const PostFooter = ({ classes, author, post, slug, facebook }) => {
   return (
     <footer className={classes.footer}>
+       <PostAuthor author={author} />
       <PostShare post={post} slug={slug} />
     </footer>
   );
@@ -36,6 +36,7 @@ const PostFooter = ({ classes, author, post, slug, facebook }) => {
 
 PostFooter.propTypes = {
   classes: PropTypes.object.isRequired,
+  author: PropTypes.object.isRequired,
   post: PropTypes.object.isRequired,
   slug: PropTypes.string.isRequired,
 };

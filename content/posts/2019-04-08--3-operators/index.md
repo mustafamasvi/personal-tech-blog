@@ -133,3 +133,36 @@ Falsy values don’t necessarily have the value false, they simply evaluate to f
 ```javascript
 undefined, null, NaN, 0, "", false
 ```
+
+All truthy values are values that aren’t falsy (that sounds very obvious, but there are too many values that are truthy. It’s much simpler to make sure that the value isn’t in the list of falsy values!).
+
+```javascript
+const x = true
+const y = false
+
+// And
+// Both values to be truthy
+x && y // false
+
+// Or
+// At least one needs to be truthy
+x || y
+
+// Not
+// Return false if truthy, and vice vera
+!x // false
+!y // true
+!'Mustafa' // false
+```
+
+## Precedence and associativity
+
+Now that you know more about operators, imagine the following scenario:
+
+```javascript
+const sum = 2 * 8 + 3 / 2 * (2 - 1 )
+```
+
+Operators have a certain precedence: operators with a higher precedence get called first, operators with a lower precedence get called last. It can also happen that all operators have the same precedence, in that case the associativity (the order in which the operators get called: either left-to-right or right-to-left) is important.
+
+There is an entire table that describes which operators have the highest precedence, which can be found here.

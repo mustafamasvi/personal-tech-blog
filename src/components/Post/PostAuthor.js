@@ -34,6 +34,7 @@ const styles = theme => ({
     }
   },
   box: {
+    paddingTop: "1em",
     display: "flex",
     flexDirection: "column",
     minHeight: "50px",

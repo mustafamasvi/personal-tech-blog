@@ -124,7 +124,7 @@ const theme = createMuiTheme({
     },
     fonts: {
       footnote: {
-        size: 0.8,
+        size: 1,
         lineHeight: 1.4
       }
     }

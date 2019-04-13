@@ -192,7 +192,7 @@ module.exports = {
               {
                 allMarkdownRemark(
                   limit: 1000,
-                  sort: { order: DESC, fields: [fields___prefix] },
+                  sort: { order: ASC, fields: [fields___prefix] },
                   filter: { id: { regex: "//posts//" } }
                 ) {
                   edges {
