@@ -2,7 +2,7 @@
 title: Objects
 subTitle: Objects, Dot notations, Key notations and Object methods
 category: "Javascript"
-cover: array-methods-thumbs.jpg
+cover: object-thumb.png
 ---
 
 An object is a collection of related data. We use brackets and key/value pairs in order to store this data.
