@@ -12,6 +12,7 @@
     "serve": "gatsby serve",
     "format-output": "prettier src/**/*.{js,jsx}",
     "format": "prettier --write src/**/*.{js,jsx}",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
     "lint-errors": "eslint src/**/*.{js,jsx} --quiet",
     "lint": "eslint src/**/*.{js,jsx}",
     "generate-app-icons": "sh ./scripts/generate-app-icons.sh"
