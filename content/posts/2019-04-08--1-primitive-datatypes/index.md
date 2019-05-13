@@ -1,6 +1,6 @@
 ---
 title: Primitive Data Types
-subTitle: Data Types in JavaScript
+subTitle: Boolean, Number, Undefined, Null, String and Symbol
 category: "Javascript"
 cover: datatype-thumb.jpg
 ---

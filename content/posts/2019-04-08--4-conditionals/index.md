@@ -1,6 +1,6 @@
 ---
 title: Conditionals
-subTitle: Conditionals in JavaScript
+subTitle: if-esle, Conditional and switch
 category: "Javascript"
 cover: conditionals.jpg
 ---

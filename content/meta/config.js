@@ -4,7 +4,7 @@ module.exports = {
   siteTitle: "Mustafa Masvi", // <title>
   shortSiteTitle: "Mustafa Masvi", // <title> ending for posts and pages
   siteDescription: "",
-  siteUrl: "https://mustafamasvi.github.io/tech-blog/",
+  siteUrl: "https://dev.mustafamasvi.com",
   pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",

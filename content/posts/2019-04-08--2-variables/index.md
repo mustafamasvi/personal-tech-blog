@@ -1,6 +1,6 @@
 ---
 title: Variables
-subTitle: Variables in JavaScript
+subTitle: var, let and const
 category: "Javascript"
 cover: variables-thumb.jpg
 ---

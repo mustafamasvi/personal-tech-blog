@@ -1,6 +1,6 @@
 ---
 title: Arrays
-subTitle: Arrays in JavaScript
+subTitle: Basic of arrays in JavaScript
 category: "Javascript"
 cover: arrays-thumbs.jpg
 ---

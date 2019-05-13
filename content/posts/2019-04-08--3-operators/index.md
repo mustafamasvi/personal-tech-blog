@@ -1,6 +1,6 @@
 ---
 title: Operators
-subTitle: Operators in JavaScript
+subTitle: Assignment, Comparison, Arithmetic and Logical Operators
 category: "Javascript"
 cover: operators-thumb.jpg
 ---
